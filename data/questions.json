@@ -63,5 +63,17 @@
     "explanation": "const 用于声明常量，声明后不能重新赋值。var 和 let 声明的是变量。",
     "locale": "zh",
     "category": "编程"
-  }
-]
+  },
+{
+  "id": 6,
+  "title": "姆巴佩是哪个足球俱乐部的球员？",
+  "coverImage": null,
+  "optionA": "巴黎圣日尔曼", 
+  "optionB": "皇家马德里", 
+  "optionC": "摩纳哥", 
+  "optionD": "阿森纳",
+  "answer": "B",
+  "explanation": "截止2026年，姆巴佩效力于西甲皇家马德里",
+  "category": "体育",
+  "locale": "zh",
+}
