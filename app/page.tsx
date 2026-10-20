@@ -31,7 +31,7 @@ export default async function HomePage() {
 
       {!error && questions.length === 0 && (
         <div className="rounded-xl border border-slate-200 bg-white p-8 text-center text-slate-500">
-          题库为空，请先在 Strapi Cloud 管理后台录入题目。
+          题库为空，请在仓库的 data/questions.json 中添加题目。
         </div>
       )}
 

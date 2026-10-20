@@ -4,7 +4,7 @@ import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata: Metadata = {
   title: "题库中心 Quiz Hub",
-  description: "简洁干净的刷题平台，对接 Strapi Cloud 题库。",
+  description: "简洁干净的在线刷题平台。",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
           {children}
         </main>
         <footer className="text-center text-xs text-slate-400 py-6">
-          Powered by Next.js 15 + Strapi Cloud
+          Powered by Next.js 15 · Cloudflare
         </footer>
       </body>
     </html>
