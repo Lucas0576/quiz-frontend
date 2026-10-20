@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "中国的首都是哪座城市？",
+    "coverImage": null,
+    "optionA": "上海",
+    "optionB": "北京",
+    "optionC": "广州",
+    "optionD": "深圳",
+    "answer": "B",
+    "explanation": "北京是中华人民共和国的首都，是全国的政治中心、文化中心。",
+    "locale": "zh",
+    "category": "常识"
+  },
+  {
+    "id": 2,
+    "title": "水的化学式是什么？",
+    "coverImage": null,
+    "optionA": "CO₂",
+    "optionB": "O₂",
+    "optionC": "H₂O",
+    "optionD": "NaCl",
+    "answer": "C",
+    "explanation": "水由两个氢原子和一个氧原子组成，化学式为 H₂O。",
+    "locale": "zh",
+    "category": "科学"
+  },
+  {
+    "id": 3,
+    "title": "HTTP 状态码 404 表示什么？",
+    "coverImage": null,
+    "optionA": "服务器内部错误",
+    "optionB": "请求成功",
+    "optionC": "资源未找到",
+    "optionD": "永久重定向",
+    "answer": "C",
+    "explanation": "404 Not Found 表示服务器找不到请求的资源。500 才是服务器内部错误。",
+    "locale": "zh",
+    "category": "编程"
+  },
+  {
+    "id": 4,
+    "title": "一年通常有多少个月？",
+    "coverImage": null,
+    "optionA": "10 个月",
+    "optionB": "11 个月",
+    "optionC": "12 个月",
+    "optionD": "13 个月",
+    "answer": "C",
+    "explanation": "公历一年分为 12 个月。",
+    "locale": "zh",
+    "category": "常识"
+  },
+  {
+    "id": 5,
+    "title": "JavaScript 中用于声明常量的关键字是？",
+    "coverImage": null,
+    "optionA": "var",
+    "optionB": "let",
+    "optionC": "const",
+    "optionD": "static",
+    "answer": "C",
+    "explanation": "const 用于声明常量，声明后不能重新赋值。var 和 let 声明的是变量。",
+    "locale": "zh",
+    "category": "编程"
+  }
+]
